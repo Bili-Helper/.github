@@ -1,5 +1,3 @@
-Sure, here's a more detailed version of the GitHub Organization Readme:
-
 ## Hi there 👋
 
 Welcome to **Pili-Helper**! We're a dedicated team passionate about creating and maintaining tools and services that enhance your ACGMN experience. Our repositories cover a range of functionalities, from live recording tools to manga readers and beyond. Here's a snapshot of what we offer:

@@ -6,54 +6,27 @@ Welcome to **Pili-Helper**! We're a dedicated team passionate about creating and
 
 ### Repositories
 
-- **Hentoid**: 
-  - Description: H-app reader
-  - Language: Kotlin
+- **Hentoid**: H-app reader by `Kotlin`
 
-- **JComicDownloader**: 
-  - Description: A tool that can download online comics and novels from some Chinese websites.
-  - Language: Java
+- **JComicDownloader**:  A tool that can download online comics and novels from some Chinese websites. by `Java`
 
-- **E-HentaiViewer**: 
-  - Description: An iOS reader for E-Hentai.
-  - Language: Objective-C
+- **E-HentaiViewer**: An iOS reader for E-Hentai.by `Objective-C`
 
-- **nekopaw**: 
-  - Description: exported from code.google.com/p/nekopaw.
-  - Language: Pascal
+- **nekopaw**:  exported from code.google.com/p/nekopaw. by `Pascal`
 
-- **ABPlayerHTML5**: 
-  - Description: Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器.
-  - Language: JavaScript
+- **ABPlayerHTML5**:  Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器.by  `JavaScript`
 
-- **bilibili-live-recorder-py**: 
-  - Description: 下载 bilibili 直播 视频流.
-  - Language: Python
+- **bilibili-live-recorder-py**: 下载 bilibili 直播 视频流.by `Python`
 
-- **bili-video-number-tool**: 
-  - Description: 真正本地转换B站AVBV号的工具.
-  - Language: Java
+- **bili-video-number-tool**: 真正本地转换B站AVBV号的工具.by `Java`
 
-- **bilibili-live-recorder-py3**: 
-  - Description: B站直播间录制.
-  - Language: Python
+- **bilibili-live-recorder-py3**: B站直播间录制.by `Python`
 
-- **kratos**: 
-  - Description: Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具.
-  - Language: Go
+- **kratos**: Kratos是bilibili开源的一套`Go`微服务框架，包含大量微服务相关框架及工具.
 
-- **Cimoc**: 
-  - Description: Android 平台在线漫画阅读器.
-  - Language: Java
+- **Cimoc**: Android 平台在线漫画阅读器. by `Java`
 
-- **xeHentai**: 
-  - Description: 绅士漫画下载.
-  - Language: Python
-
-- **RoameBot**: 
-  - Description: 路游动漫壁纸下载器.
-  - Language: Python
-
+- **xeHentai**: 绅士漫画下载. by `Python`
 
 ### Contribution Guidelines
 
